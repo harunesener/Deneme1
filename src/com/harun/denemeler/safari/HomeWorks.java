@@ -20,8 +20,10 @@ public class HomeWorks {
 
         //System.out.println("input : " + hw.readInput());
 
-        //hw.calculator();
-        //hw.multiDimensionalArrays();
+
+
+        hw.calculator();
+        hw.multiDimensionalArrays();
         hw.stringBuilder(7);
     }
 
